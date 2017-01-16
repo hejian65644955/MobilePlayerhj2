@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JieCaoVideoPlayer-develop/JieCaoVideoPlayer-develop.iml" filepath="$PROJECT_DIR$/JieCaoVideoPlayer-develop/JieCaoVideoPlayer-develop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefresh_library/MaterialRefresh_library.iml" filepath="$PROJECT_DIR$/MaterialRefresh_library/MaterialRefresh_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/MobilePlayerhj.iml" filepath="$PROJECT_DIR$/MobilePlayerhj.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhotoViewlibrary/PhotoViewlibrary.iml" filepath="$PROJECT_DIR$/PhotoViewlibrary/PhotoViewlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhotoViewlibrary1/PhotoViewlibrary1.iml" filepath="$PROJECT_DIR$/PhotoViewlibrary1/PhotoViewlibrary1.iml" />

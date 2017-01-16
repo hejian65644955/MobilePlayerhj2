@@ -72,6 +72,10 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.rb_net_video:
                         position = 3;
                         break;
+                    case R.id.rb_net_recyclerview:
+                        position = 4;
+                        break;
+
                 }
 
                 //Fragment-当前的Fragment
