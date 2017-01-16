@@ -46,7 +46,7 @@ public class TitleBarView extends LinearLayout implements View.OnClickListener {
 
         switch (v.getId()) {
             case R.id.tv_search:
-                //Toast.makeText(mContext, "搜索", Toast.LENGTH_SHORT).show();
+                Toast.makeText(mContext, "搜索", Toast.LENGTH_SHORT).show();
                 //Intent intent = new Intent(mContext, SearchActivity.class);
                 //mContext.startActivity(intent);
                 break;

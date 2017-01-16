@@ -19,6 +19,7 @@ import com.atguigu.www.mobileplayerhj.fragment.LocalAudioFragment;
 import com.atguigu.www.mobileplayerhj.fragment.LocalVideoFragment;
 import com.atguigu.www.mobileplayerhj.fragment.NetAudioFragment;
 import com.atguigu.www.mobileplayerhj.fragment.NetVideoFragment;
+import com.atguigu.www.mobileplayerhj.fragment.RecyclerViewFragment;
 
 import java.util.ArrayList;
 
@@ -136,6 +137,7 @@ public class MainActivity extends AppCompatActivity {
         fragments.add(new LocalAudioFragment());//本地音乐
         fragments.add(new NetAudioFragment());//网络音乐
         fragments.add(new NetVideoFragment());//网络视频
+        fragments.add(new RecyclerViewFragment());//网络视频
 
     }
 
