@@ -9,7 +9,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/JieCaoVideoPlayer-develop" />
+            <option value="$PROJECT_DIR$/PhotoViewlibrary" />
+            <option value="$PROJECT_DIR$/PhotoViewlibrary1" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/jcvideoplayer-lib" />
             <option value="$PROJECT_DIR$/xUtils3-master" />
             <option value="$PROJECT_DIR$/xutils" />
           </set>
